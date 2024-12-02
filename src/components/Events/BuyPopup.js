@@ -4,7 +4,6 @@ import { CiLocationOn } from "react-icons/ci";
 import { AiOutlineRise } from "react-icons/ai";
 import { IoClose } from "react-icons/io5";
 import Image from "next/image";
-import axios from "axios";
 import { PiListHeartLight, PiVideoLight } from "react-icons/pi";
 import ButTicketForm from "../BuyTicketForm";
 
