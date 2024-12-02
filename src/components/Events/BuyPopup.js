@@ -134,7 +134,6 @@ export default function BuyPopup({event, setIsPopupOpen}){
             </div>
           ) : (
             <div className="h-full flex items-center justify-center">
-              <Loader color="#0BA5EC" />
             </div>
           )}
         </div>
