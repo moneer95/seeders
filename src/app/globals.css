@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-satoshi: "Satoshi", sans-serif;
+  --primary: #081c7d ;
+  --light: #0BA5EC ;
+  --primaryHover: #0a2a99;
+
+}
+
+body {
+  font-family: var(--font-satoshi);
+}
